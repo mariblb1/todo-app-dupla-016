@@ -34,3 +34,4 @@ artifacts:
   files:
     - imagedefinitions.json
     - deployment.yaml
+    - buildspec-deploy.yml
